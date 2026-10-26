@@ -58,5 +58,3 @@ The value of `answer` must exactly match one of the strings in `options`.
 ## Limitations
 This is a simple local demo. Questions and scores are not stored permanently in a database or file, and it does not include administrator login.
 
-## Author
-Add your name, class, roll number, and institution details before submission.
